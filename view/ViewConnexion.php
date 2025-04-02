@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="./public/assets/scripts/script.js" defer></script>
     <link rel="stylesheet" href="./public/assets/style/main.css">
+    <script src="./public/assets/scripts/main.js" async></script>
     <title>Connexion</title>
 </head>
 <body>
